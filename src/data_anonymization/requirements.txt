@@ -1,0 +1,8 @@
+spacy>=3.0
+langchain_experimental
+presidio-anonymizer
+presidio-analyzer
+Faker
+
+fasttext 
+langdetect
