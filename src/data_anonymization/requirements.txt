@@ -1,5 +1,7 @@
-spacy>=3.0
+langchain
 langchain_experimental
+langchain-openai
+spacy>=3.0
 presidio-anonymizer
 presidio-analyzer
 Faker
