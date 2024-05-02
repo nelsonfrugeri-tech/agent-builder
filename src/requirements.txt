@@ -1,0 +1,9 @@
+# Framework
+langchain
+langchain-community
+langchainhub
+
+# Components
+boto3
+duckduckgo-search
+numexpr
