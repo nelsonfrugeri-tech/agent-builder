@@ -1,0 +1,11 @@
+# Components
+pydantic==2.7.0
+python-dotenv
+
+# API
+uvicorn
+fastapi
+httpx
+
+# LLM Providers
+openai
